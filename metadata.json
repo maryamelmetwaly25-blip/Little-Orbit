@@ -1,0 +1,6 @@
+{
+  "name": "A Little Universe - Dedicated to Ahmed Nabil",
+  "description": "An interactive 3D memory universe dedicated to 3D sculptor and mentor Ahmed Nabil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
